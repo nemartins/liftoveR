@@ -1,4 +1,4 @@
-#' @import Rbowtie
+#' @import RBowtie
 #' @import Rsamtools
 #' @import Biostrings
 #' @import GenomicRanges
